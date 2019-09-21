@@ -1,0 +1,14 @@
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\bin\Debug\netcoreapp2.1\TestingWeb.deps.json
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\bin\Debug\netcoreapp2.1\TestingWeb.runtimeconfig.json
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\bin\Debug\netcoreapp2.1\TestingWeb.runtimeconfig.dev.json
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\bin\Debug\netcoreapp2.1\TestingWeb.dll
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.RazorAssemblyInfo.cache
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.RazorAssemblyInfo.cs
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.AssemblyInfoInputs.cache
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.AssemblyInfo.cs
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\bin\Debug\netcoreapp2.1\TestingWeb.pdb
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.dll
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\obj\Debug\netcoreapp2.1\TestingWeb.pdb
+C:\Users\Axel\source\repos\TestingWeb\TestingWeb\bin\Debug\netcoreapp2.1\TestingWeb.xml
